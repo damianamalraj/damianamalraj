@@ -12,8 +12,8 @@ I'm passionate about learning the latest and greatest technologies whether that'
 &nbsp;
 [![website](./img/twitter-brands.svg)](https://twitter.com/daniel_amalraj)
 &nbsp;
-[![website](./img/globe-solid-dark.svg)](https://github.com/damianamalraj)
-[![website](./img/globe-solid.svg)](https://github.com/damianamalraj)
+[![website](./img/globe-solid-dark.svg)](https://github.com/damianamalraj#gh-light-mode-only)
+[![website](./img/globe-solid.svg)](https://github.com/damianamalraj#gh-dark-mode-only)
 
 <!--
 **damianamalraj/damianamalraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
