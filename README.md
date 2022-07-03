@@ -1,4 +1,4 @@
-# Hi, I'm Damian 👋
+# Hi there, I'm Damian 👋
 
 Who am I? I'm a passionate person who likes to learn the latest and greatest technologies whether that's the front-end or back-end, I enjoy creating sleek and responsive applications in addition to being user-friendly, and I love working in fast-paced environments with a highly diverse educational background and cultural experiences and I excel at collaborating with teams of different knowledge sets. A versatile programmer with an interest in software development, and an adaptable and self-motivated learner and I'm also interested in new programming technologies and continuous self-improvement. I'm currently open to opportunities within the software development discipline and if you feel that we would be a great match, I'd love to hear from you!
 
