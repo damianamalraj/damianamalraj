@@ -18,6 +18,7 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 <img align="left" alt="Bash" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 <br />
+<br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianamalraj&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,7 +27,7 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 ### 📫 How to reach me:
 
 [![website](./img/linkedin-brands.svg)](https://www.linkedin.com/in/damianamalraj/)
-&nbsp2
+&nbsp;
 [![website](./img/twitter-brands.svg)](https://twitter.com/daniel_amalraj)
 &nbsp;
 [![website](./img/globe-solid-dark.svg)](https://github.com/damianamalraj#gh-light-mode-only)
