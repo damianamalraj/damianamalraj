@@ -23,7 +23,7 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 ### Back-End:
 
 <img align="left" alt="NodeJS" width="32px" style="margin:0 10px 5px 0; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Express" width="32px" style="margin:0 10px 5px 0;  background-color: white; padding: 0 1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Express" width="32px" style="margin:0 10px 5px 0;  background-color: #ffffff; padding: 0 1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Firebase" width="32px" style="margin:0 10px 5px 0; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="MongoDB" width="32px" style="margin:0 10px 5px 0; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="PostgreSQL" width="32px" style="margin:0 10px 5px 0; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
