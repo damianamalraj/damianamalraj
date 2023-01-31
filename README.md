@@ -15,8 +15,10 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 <img align="left" alt="Vue" width="32px" style="margin:0 10px 5px 0; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="React" width="32px" style="margin:0 10px 5px 0; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="32px" style="margin:0 10px 5px 0; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+
 <br/>
 <br/>
+
 <img align="left" alt="NodeJS" width="32px" style="margin:0 10px 5px 0; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="32px" style="margin:0 10px 5px 0;  background-color: white; padding: 0 1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Firebase" width="32px" style="margin:0 10px 5px 0; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
