@@ -17,6 +17,9 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 <img align="left" alt="Git" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+<br />
+<br />
+
 ### 🚧 Commit's Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianamalraj&show_icons=true&hide_border=true&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
