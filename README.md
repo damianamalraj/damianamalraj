@@ -19,7 +19,6 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 <img align="left" alt="Redux" width="32px" style="margin:0 10px 5px 0; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 
 <br/>
-<br/>
 
 ### Back-End:
 
