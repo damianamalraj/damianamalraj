@@ -19,7 +19,8 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 <img align="left" alt="Vue" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="React" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Redux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="NextJS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Gatsby" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" />
 
 <br/>
 
@@ -31,10 +32,11 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 <img align="left" alt="MongoDB" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="PostgreSQL" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Nest" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img align="left" alt="GraphQL" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Git" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Jest" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" alt="Jest" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<img align="left" alt="Bash" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Docker" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+<img align="left" alt="Linux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br/>
 <br/>
