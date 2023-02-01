@@ -6,7 +6,7 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 
 ## 💻 **Languages and Tools**
 
-### [_Constantly updating_ 👨‍💻]
+#### [_Constantly updating_ 👨‍💻]
 
 <!-- https://devicon.dev/ -->
 
