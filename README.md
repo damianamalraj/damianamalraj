@@ -4,44 +4,48 @@
 
 Who am I? I'm a passionate person who likes to learn the latest and greatest technologies whether that's the front-end or back-end, I enjoy creating sleek and responsive applications in addition to being user-friendly, and I love working in fast-paced environments with a highly diverse educational background and cultural experiences and I excel at collaborating with teams of different knowledge sets. A versatile programmer with an interest in software development, and an adaptable and self-motivated learner and I'm also interested in new programming technologies and continuous self-improvement. I'm currently open to opportunities within the software development discipline and if you feel that we would be a great match, I'd love to hear from you!
 
-### 💻 Languages and Tools
+### 💻 **Languages and Tools**
+
+**_Constantly updating_**
 
 <!-- https://devicon.dev/ -->
 
-### Front-End:
+#### Front-End:
 
-<img align="left" alt="HTML" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Vue" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="React" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Redux" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-
-<br/>
-
-### Back-End:
-
-<img align="left" alt="NodeJS" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Express" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="Firebase" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="MongoDB" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="PostgreSQL" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Nest" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-<img align="left" alt="Git" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Jest" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" alt="Bash" width="32px" style="margin:0 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="HTML" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Vue" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="React" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Redux" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" alt="Redux" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
 <br/>
+
+#### Back-End:
+
+<img align="left" alt="NodeJS" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Firebase" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="MongoDB" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="PostgreSQL" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Nest" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img align="left" alt="Git" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Jest" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="left" alt="Jest" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+<img align="left" alt="Bash" width="32px" style="margin:4px 8px 4px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<br/>
 <br/>
 
-### 🚧 Commit's Stats
+### 🚧 **Commit Stats**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianamalraj&show_icons=true&hide_border=true&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=damianamalraj&hide_border=true)](https://git.io/streak-stats)
 
-### 📫 How to reach me:
+### 📫 **How to reach me:**
 
 [![website](./img/linkedin-brands.svg)](https://www.linkedin.com/in/damianamalraj/)
 &nbsp;
