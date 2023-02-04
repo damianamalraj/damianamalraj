@@ -12,31 +12,31 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 
 ### **Front-End:**
 
-<a href="#" style="pointer-events: none;"><img align="left" alt="HTML" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="CSS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="JavaScript" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="TypeScript" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="Vue" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="React" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="Redux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="NextJS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="Gatsby" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="HTML" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="CSS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="JavaScript" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="TypeScript" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="Vue" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="React" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="Redux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="NextJS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="Gatsby" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" /></a>
 
 <br/>
 
 ### **Back-End:**
 
-<a href="#" style="pointer-events: none;"><img align="left" alt="NodeJS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="Express" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="Firebase" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="MongoDB" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="PostgreSQL" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="Nest" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="GraphQL" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="Git" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="Jest" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="Docker" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="Linux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="NodeJS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="Express" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="Firebase" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="MongoDB" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="PostgreSQL" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="Nest" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="GraphQL" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="Git" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="Jest" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="Docker" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
+<a href="#" style="-moz-user-select: none; -webkit-user-select: none; user-select: none;"><img align="left" alt="Linux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
 
 <br/>
 <br/>
