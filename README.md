@@ -55,8 +55,8 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 &nbsp;
 [![website](./img/twitter-brands.svg)](https://twitter.com/daniel_amalraj)
 &nbsp;
-[![website](./img/globe-solid-dark.svg)](https://github.com/damianamalraj#gh-light-mode-only)
-[![website](./img/globe-solid.svg)](https://github.com/damianamalraj#gh-dark-mode-only)
+[![website](./img/globe-solid-dark.svg)](https://damianamalraj.netlify.app#gh-light-mode-only)
+[![website](./img/globe-solid.svg)](https://damianamalraj.netlify.app#gh-dark-mode-only)
 
 <!--
 **damianamalraj/damianamalraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
