@@ -43,11 +43,13 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 <br/>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianamalraj&hide_border=true&card_width=445&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚧 **Commit Stats**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianamalraj&show_icons=true&hide_border=true&card_width=495)](https://github.com/damianamalraj)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=damianamalraj&hide_border=true)](https://git.io/damianamalraj)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=damianamalraj&hide_border=true)](https://github.com/damianamalraj)
 
 ## 📫 **How to reach me:**
 
