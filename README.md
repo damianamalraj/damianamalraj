@@ -21,15 +21,15 @@ Who am I? I'm a passionate person who likes to learn the latest and greatest tec
 <a href="#"><img align="left" alt="Vue" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
 <a href="#"><img align="left" alt="React" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 <a href="#"><img align="left" alt="Redux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
-<a href="#"><img align="left" alt="NextJS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
-<a href="#"><img align="left" alt="WordPress" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></a>
+<a href="#"><img align="left" alt="NextJS" width="32px" style="margin:3px 6px 3px 0; background: #fff; border-radius: 50%; padding: 0.5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
+<a href="#"><img align="left" alt="WordPress" width="32px" style="margin:3px 6px 3px 0; background: #fff; border-radius: 50%; padding: 0.5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></a>
 
 <br/>
 
 ### **Back-End:**
 
 <a href="#"><img align="left" alt="NodeJS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-<a href="#"><img align="left" alt="Express" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
+<a href="#"><img align="left" alt="Express" width="32px" style="margin:3px 6px 3px 0; background: #fff; border-radius: 50%; padding: 0.5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
 <a href="#"><img align="left" alt="Firebase" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></a>
 <a href="#"><img align="left" alt="MongoDB" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
 <a href="#"><img align="left" alt="PostgreSQL" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
