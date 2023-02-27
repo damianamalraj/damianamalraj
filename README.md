@@ -2,7 +2,7 @@
 
 ![VIEWS](https://komarev.com/ghpvc/?username=damianamalraj&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
-Who am I? I'm a passionate person who likes to learn the latest and greatest technologies whether that's the front-end or back-end, I enjoy creating sleek and responsive applications in addition to being user-friendly, and I love working in fast-paced environments with a highly diverse educational background and cultural experiences and I excel at collaborating with teams of different knowledge sets. A versatile programmer with an interest in software development, and an adaptable and self-motivated learner and I'm also interested in new programming technologies and continuous self-improvement. I'm currently open to opportunities within the software development discipline and if you feel that we would be a great match, I'd love to hear from you!
+Who am I? I am a passionate individual with a desire to stay on the cutting edge of technology, constantly learning and experimenting with new technologies and techniques, both in front-end and back-end development. I have experience working on React and React Native applications using Typescript, as well as backend development using Node and MongoDB. I am a versatile programmer with an interest in software development.
 
 ## 💻 **Languages and Tools**
 
