@@ -44,7 +44,7 @@ Who am I? I am a passionate individual with a desire to stay on the cutting edge
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianamalraj&hide_border=true&card_width=495&layout=compact)](https://github.com/damianamalraj)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianamalraj&hide_border=true&layout=compact&card_width=495)](https://github.com/damianamalraj)
 
 ## 🚧 **Commit Stats**
 
