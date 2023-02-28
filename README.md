@@ -54,9 +54,12 @@ Who am I? I am a passionate individual with a desire to stay on the cutting edge
 
 ## 📫 **How to reach me:**
 
-[![website](./img/linkedin-brands.svg)](https://www.linkedin.com/in/damianamalraj/)
+[![website](./img/square-envelope-solid.svg)](mailto:damian.amalraj@hotmail.com)
 &nbsp;
-[![website](./img/twitter-brands.svg)](https://twitter.com/daniel_amalraj)
+[![website](./img/linkedin-brands.svg)](https://www.linkedin.com/in/damianamalraj/)
+
+<!-- &nbsp;
+[![website](./img/twitter-brands.svg)](https://twitter.com/daniel_amalraj) -->
 
 <!--
 &nbsp;
