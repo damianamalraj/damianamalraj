@@ -30,6 +30,8 @@ Who am I? I am a passionate individual with a desire to stay on the cutting edge
 
 <a href="#"><img align="left" alt="NodeJS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 <a href="#"><img align="left" alt="Express" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
+<a href="#"><img align="left" alt="Python" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+<a href="#"><img align="left" alt="FastAPI" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></a>
 <a href="#"><img align="left" alt="Firebase" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></a>
 <a href="#"><img align="left" alt="MongoDB" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
 <a href="#"><img align="left" alt="PostgreSQL" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
@@ -37,6 +39,9 @@ Who am I? I am a passionate individual with a desire to stay on the cutting edge
 <a href="#"><img align="left" alt="GraphQL" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
 <a href="#"><img align="left" alt="Git" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 <a href="#"><img align="left" alt="Jest" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
+
+<br/>
+
 <a href="#"><img align="left" alt="Docker" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
 <a href="#"><img align="left" alt="Linux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
 
