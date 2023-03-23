@@ -41,6 +41,7 @@ Who am I? I am a passionate individual with a desire to stay on the cutting edge
 <a href="#"><img align="left" alt="Jest" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
 
 <br/>
+<br/>
 
 <a href="#"><img align="left" alt="Docker" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
 <a href="#"><img align="left" alt="Linux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
