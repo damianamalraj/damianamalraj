@@ -12,39 +12,15 @@ Who am I? I am a passionate individual with a desire to stay on the cutting edge
 
 ### **Front-End:**
 
-<a href="#"><img align="left" alt="HTML" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
-<a href="#"><img align="left" alt="CSS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
-<a href="#"><img align="left" alt="SASS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
-<a href="#"><img align="left" alt="Tailwind" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
-<a href="#"><img align="left" alt="JavaScript" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
-<a href="#"><img align="left" alt="TypeScript" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-<a href="#"><img align="left" alt="Vue" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
-<a href="#"><img align="left" alt="React" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-<a href="#"><img align="left" alt="Redux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
-<a href="#"><img align="left" alt="NextJS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
-<a href="#"><img align="left" alt="WordPress" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></a>
-
-<br/>
+[![front-end](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,react,redux,next,wordpress&perline=10)](https://github.com/damianamalraj)
 
 ### **Back-End:**
 
-<a href="#"><img align="left" alt="NodeJS" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-<a href="#"><img align="left" alt="Express" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
-<a href="#"><img align="left" alt="Python" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-<a href="#"><img align="left" alt="FastAPI" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></a>
-<a href="#"><img align="left" alt="Firebase" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></a>
-<a href="#"><img align="left" alt="MongoDB" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-<a href="#"><img align="left" alt="PostgreSQL" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-<a href="#"><img align="left" alt="Nest" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></a>
-<a href="#"><img align="left" alt="GraphQL" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
-<a href="#"><img align="left" alt="Git" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-<a href="#"><img align="left" alt="Jest" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
-<a href="#"><img align="left" alt="Docker" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
-<a href="#"><img align="left" alt="Linux" width="32px" style="margin:3px 6px 3px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+[![back-end](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,sentry,docker,githubactions,bash&perline=10)](https://github.com/damianamalraj)
 
-<br/>
-<br/>
-<br/>
+### **Tools:**
+
+[![tools](https://skillicons.dev/icons?i=vscode,postman,figma&perline=10)](https://github.com/damianamalraj)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianamalraj&hide_border=true&layout=compact&card_width=495)](https://github.com/damianamalraj)
 
@@ -65,8 +41,8 @@ Who am I? I am a passionate individual with a desire to stay on the cutting edge
 
 <!--
 &nbsp;
-[![website](./img/globe-solid-dark.svg)](https://damianamalraj.netlify.app#gh-light-mode-only)
-[![website](./img/globe-solid.svg)](https://damianamalraj.netlify.app#gh-dark-mode-only)
+[![website](./img/globe-solid-dark.svg)](https://.netlify.app#gh-light-mode-only)
+[![website](./img/globe-solid.svg)](https://.netlify.app#gh-dark-mode-only)
 -->
 
 <!--
