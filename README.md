@@ -14,7 +14,7 @@ Who am I? I am a passionate individual with a desire to stay on the cutting edge
 
 ### **Back-End:**
 
-[![back-end](https://skillicons.dev/icons?i=nodejs,python,express,fastapi,firebase,mongodb,postgresql,sqlite,sequelize,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](https://github.com/damianamalraj)
+[![back-end](https://skillicons.dev/icons?i=nodejs,python,express,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](https://github.com/damianamalraj)
 
 ### **Tools:**
 
