@@ -10,11 +10,11 @@ Who am I? I am a passionate individual with a desire to stay on the cutting edge
 
 ### **Front-End:**
 
-[![front-end](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,react,redux,next&perline=10)](https://github.com/damianamalraj)
+[![front-end](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,vue,react,redux,next&perline=10)](https://github.com/damianamalraj)
 
 ### **Back-End:**
 
-[![back-end](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,bash&perline=10)](https://github.com/damianamalraj)
+[![back-end](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,firebase,mongodb,sqlite,postgresql,sequelize,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](https://github.com/damianamalraj)
 
 ### **Tools:**
 
