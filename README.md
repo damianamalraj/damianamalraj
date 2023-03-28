@@ -8,19 +8,19 @@ Who am I? I am a passionate individual with a desire to stay on the cutting edge
 
 #### [_Constantly updating_ 👨‍💻]
 
-<!-- https://devicon.dev/ -->
-
 ### **Front-End:**
 
-[![front-end](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,react,redux,next&perline=8)](https://github.com/damianamalraj)
+[![front-end](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,react,redux,next&perline=10)](https://github.com/damianamalraj)
 
 ### **Back-End:**
 
-[![back-end](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,bash&perline=8)](https://github.com/damianamalraj)
+[![back-end](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,bash&perline=10)](https://github.com/damianamalraj)
 
 ### **Tools:**
 
-[![tools](https://skillicons.dev/icons?i=vscode,postman,figma&perline=8)](https://github.com/damianamalraj)
+[![tools](https://skillicons.dev/icons?i=vscode,postman,figma&perline=10)](https://github.com/damianamalraj)
+
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianamalraj&hide_border=true&layout=compact&card_width=495)](https://github.com/damianamalraj)
 
