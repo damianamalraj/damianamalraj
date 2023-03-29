@@ -10,7 +10,7 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 ### **Front-End:**
 
-[![front-end](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,vue,react,redux,next&perline=10)](https://github.com/damianamalraj)
+[![front-end](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap,js,ts,vue,react,redux,next&perline=10)](https://github.com/damianamalraj)
 
 ### **Back-End:**
 
