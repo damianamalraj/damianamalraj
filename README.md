@@ -10,25 +10,25 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 ### **Front-End:**
 
-[![front-end](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap,js,ts,vue,react,redux,next&perline=10)](https://github.com/damianamalraj)
+[![front-end](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap,js,ts,vue,react,redux,next&perline=10)](https://github.com/damianamalraj#front-end)
 
 ### **Back-End:**
 
-[![back-end](https://skillicons.dev/icons?i=nodejs,python,express,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](https://github.com/damianamalraj)
+[![back-end](https://skillicons.dev/icons?i=nodejs,python,express,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](https://github.com/damianamalraj#back-end)
 
 ### **Tools:**
 
-[![tools](https://skillicons.dev/icons?i=vscode,postman,figma,none,none,none,none,none,none,none&perline=10)](https://github.com/damianamalraj)
+[![tools](https://skillicons.dev/icons?i=vscode,postman,figma,none,none,none,none,none,none,none&perline=10)](https://github.com/damianamalraj#tools)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianamalraj&hide_border=true&layout=compact&card_width=495)](https://github.com/damianamalraj)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianamalraj&hide_border=true&layout=compact&card_width=495)](https://github.com/damianamalraj#front-end)
 
 ## 🚧 **Commit Stats**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianamalraj&show_icons=true&hide_border=true&card_width=495)](https://github.com/damianamalraj)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianamalraj&show_icons=true&hide_border=true&card_width=495)](https://github.com/damianamalraj#-commit-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=damianamalraj&hide_border=true)](https://github.com/damianamalraj)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=damianamalraj&hide_border=true)](https://github.com/damianamalraj#-commit-stats)
 
 ## 📫 **How to reach me:**
 
