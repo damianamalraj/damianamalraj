@@ -18,7 +18,7 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 ### **Tools:**
 
-[![tools](https://skillicons.dev/icons?i=vscode,postman,figma&perline=10)](https://github.com/damianamalraj)
+[![tools](https://skillicons.dev/icons?i=vscode,postman,figma,none,none,none,none,none,none,none&perline=10)](https://github.com/damianamalraj)
 
 <br/>
 
