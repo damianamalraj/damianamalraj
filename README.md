@@ -16,10 +16,6 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 [![back-end](https://skillicons.dev/icons?i=nodejs,python,express,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](https://github.com/damianamalraj#back-end)
 
-### **Tools:**
-
-[![tools](https://skillicons.dev/icons?i=vscode,postman,figma,none,none,none,none,none,none,none&perline=10)](https://github.com/damianamalraj#tools)
-
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianamalraj&hide_border=true&layout=compact&card_width=495)](https://github.com/damianamalraj#front-end)
@@ -35,15 +31,9 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 [![website](./img/square-envelope-solid.svg)](mailto:damian.amalraj@hotmail.com)
 &nbsp;
 [![website](./img/linkedin-brands.svg)](https://www.linkedin.com/in/damianamalraj/)
-
-<!-- &nbsp;
-[![website](./img/twitter-brands.svg)](https://twitter.com/daniel_amalraj) -->
-
-<!--
 &nbsp;
-[![website](./img/globe-solid-dark.svg)](https://.netlify.app#gh-light-mode-only)
-[![website](./img/globe-solid.svg)](https://.netlify.app#gh-dark-mode-only)
--->
+[![website](./img/globe-solid-dark.svg)](https://[].netlify.app#gh-light-mode-only)
+[![website](./img/globe-solid.svg)](https://[].netlify.app#gh-dark-mode-only)
 
 <!--
 **damianamalraj/damianamalraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
