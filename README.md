@@ -1,6 +1,6 @@
 # Hi there, I'm Damian 👋
 
-[![VIEWS](https://komarev.com/ghpvc/?username=damianamalraj&color=blue&style=for-the-badge&label=PROFILE+VIEWS)](#hi-there-im-damian-👋)
+[![VIEWS](https://komarev.com/ghpvc/?username=damianamalraj&color=blue&style=for-the-badge&label=PROFILE+VIEWS)](#hi-there-im-damian-)
 
 Who am I? I'm a tech enthusiast and software developer who is always eager to stay up-to-date with the latest trends. I'm passionate about creating clean and efficient code, and I constantly strive to learn and experiment with new technologies and techniques to enhance my skills.
 
