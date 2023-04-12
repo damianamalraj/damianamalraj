@@ -31,7 +31,8 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 [![e-mail](./img/square-envelope-solid.svg)](mailto:damian.amalraj@hotmail.com)
 &nbsp;
 [![linkedin](./img/linkedin-brands.svg)](https://www.linkedin.com/in/damianamalraj/)
-[<img src="./img/portfolio-logo.png" width="38" height="38" alt="portfolio-logo" style="border-radius:3px"/>](https://www.google.com)
+&nbsp;
+[<img src="./img/portfolio-logo.png" width="37" height="37" alt="portfolio-logo" style="border-radius:3px"/>](https://www.google.com)
 
 <!--
 **damianamalraj/damianamalraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
