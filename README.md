@@ -31,7 +31,6 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 [![e-mail](./img/square-envelope-solid.svg)](mailto:damian.amalraj@hotmail.com)
 &nbsp;
 [![linkedin](./img/linkedin-brands.svg)](https://www.linkedin.com/in/damianamalraj/)
-&nbsp;
 [<img src="./img/portfolio-logo.png" width="38" height="38" alt="portfolio-logo" style="border-radius:3px"/>](https://www.google.com)
 
 <!--
