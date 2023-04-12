@@ -28,7 +28,7 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 ## 📫 **How to reach me:**
 
-[<img src="./img/portfolio-logo.png" width="38" height="38" alt="portfolio-logo"/>](#)
+[<img src="./img/portfolio-logo.png" width="37.5" height="37.5" alt="portfolio-logo"/>](#)
 &nbsp;
 [![linkedin](./img/linkedin-brands.svg)](https://www.linkedin.com/in/damianamalraj/)
 &nbsp;
