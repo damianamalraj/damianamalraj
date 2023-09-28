@@ -14,7 +14,7 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 ### **Back-End:**
 
-[![back-end](https://skillicons.dev/icons?i=nodejs,python,express,fastapi,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](#back-end)
+[![back-end](https://skillicons.dev/icons?i=nodejs,python,cs,express,fastapi,dotnet,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](#back-end)
 
 <br/>
 
