@@ -8,13 +8,17 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 #### [_Constantly updating_ 👨‍💻]
 
+### **Programming:**
+
+[![programming](https://skillicons.dev/icons?i=js,ts,python,cs&perline=10)](#front-end)
+
 ### **Front-End:**
 
-[![front-end](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap,js,ts,vue,react,redux,next&perline=10)](#front-end)
+[![front-end](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap,vue,react,redux,next&perline=10)](#front-end)
 
 ### **Back-End:**
 
-[![back-end](https://skillicons.dev/icons?i=nodejs,python,cs,express,fastapi,dotnet,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,sentry,azure,bash&perline=10)](#back-end)
+[![back-end](https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,firebase,mongodb,postgresql,nestjs,graphql,git,jest,docker,githubactions,azure,bash&perline=10)](#back-end)
 
 <br/>
 
