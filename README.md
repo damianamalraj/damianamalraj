@@ -14,7 +14,7 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 ### **Front-End:**
 
-[![front-end](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap,vue,react,redux,next&perline=10)](#front-end)
+[![front-end](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,bootstrap,angular,vue,react,redux,next&perline=10)](#front-end)
 
 ### **Back-End:**
 
