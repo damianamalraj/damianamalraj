@@ -32,7 +32,7 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 ## 📫 **How to reach me:**
 
-[<img style="height:39px;width:39px;border-radius:3px" src="./img/portfolio-logo.png" alt="portfolio-logo"/>](https://damianamalraj.netlify.app)
+[<img style="height:39px;width:39px;border-radius:3px" src="./img/portfolio-logo.png" alt="portfolio-logo"/>](https://damianamalraj.vercel.app)
 &nbsp;
 [![linkedin](./img/linkedin-brands.svg)](https://www.linkedin.com/in/damianamalraj)
 &nbsp;
