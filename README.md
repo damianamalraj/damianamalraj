@@ -18,11 +18,11 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 ### **Back-End:**
 
-[![back-end](https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,laravel,firebase,mongodb,postgresql,mysql,graphql,git,docker,bash&perline=10)](#back-end)
+[![back-end](https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,laravel,firebase,mongodb,postgresql,mysql,graphql,jest,git,docker,bash&perline=10)](#back-end)
 
 ### **Tools:**
 
-[![tools](https://skillicons.dev/icons?i=vscode,visualstudio,rider,postman,figma,jest,githubactions,googlecloud,aws,azure&perline=10)](#tools)
+[![tools](https://skillicons.dev/icons?i=vscode,visualstudio,rider,postman,figma,githubactions,googlecloud,aws,azure&perline=10)](#tools)
 
 <br/>
 
