@@ -10,7 +10,7 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 ### **Programming:**
 
-[![programming](https://skillicons.dev/icons?i=js,ts,python,cs&perline=10)](#front-end)
+[![programming](https://skillicons.dev/icons?i=js,ts,cs,php&perline=10)](#front-end)
 
 ### **Front-End:**
 
@@ -18,7 +18,11 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 ### **Back-End:**
 
-[![back-end](https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,firebase,mongodb,postgresql,mysql,nestjs,graphql,git,jest,docker,githubactions,azure,bash&perline=10)](#back-end)
+[![back-end](https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,laravel,firebase,mongodb,postgresql,mysql,graphql,git,docker,bash&perline=10)](#back-end)
+
+### **Tools:**
+
+[![tools](https://skillicons.dev/icons?i=vscode,visualstudio,rider,postman,figma,jest,githubactions,googlecloud,aws,azure&perline=10)](#tools)
 
 <br/>
 
