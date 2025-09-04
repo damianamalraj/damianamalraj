@@ -22,7 +22,7 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 
 ### **Tools:**
 
-[![tools](https://skillicons.dev/icons?i=vscode,visualstudio,rider,postman,figma,githubactions,googlecloud,aws,azure&perline=10)](#tools)
+[![tools](https://skillicons.dev/icons?i=figma,githubactions,azure&perline=10)](#tools)
 
 <br/>
 
@@ -33,8 +33,6 @@ Who am I? I'm a tech enthusiast and software developer who is always eager to st
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianamalraj&show_icons=true&hide_border=true&card_width=495)](#-commit-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=damianamalraj&hide_border=true)](#-commit-stats)
-
-## 📫 **How to reach me:**
 
 <!--
 **damianamalraj/damianamalraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
